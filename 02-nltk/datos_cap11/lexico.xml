@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf8'?>
+<lexicon>
+  <entry pos="v.i">
+    <lexeme>sleep</lexeme>
+    <pron>sli:p</pron>
+    <defn>a condition of body and mind ...</defn>
+  </entry>
+  <entry pos="v.intr">
+    <lexeme>walk</lexeme>
+    <pron>wo:k</pron>
+    <defn>progress by lifting and setting down each foot ...</defn>
+  </entry>
+  <entry pos="intrans">
+    <lexeme>wake</lexeme>
+    <pron>weik</pron>
+    <defn>cease to sleep</defn>
+  </entry>
+</lexicon>
